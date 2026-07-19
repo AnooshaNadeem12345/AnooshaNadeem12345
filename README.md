@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Anoosha+%F0%9F%91%8B;Cybersecurity+Student;Front-End+Developer;AI+%2B+Security+Enthusiast" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=180&section=header&text=Anoosha%20Nadeem&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;Front-End+Developer;AI+%2B+Security+Enthusiast" alt="Typing SVG" />
 
 </div>
 
@@ -23,40 +25,52 @@
 ---
 
 ### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/AnooshaNad32081)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoosha-nadeem-15675a387/)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Annoyyss)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/Successful-Word3427/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1225809880213094423)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anooshanadeem226@gmail.com)
+
+</div>
 
 ---
 
 ### 🛠️ Tech Stack
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,py,git,github&theme=dark)](https://skillicons.dev)
+**Languages**
+[![Languages](https://skillicons.dev/icons?i=cpp,cs,c,js,ts,py&theme=dark)](https://skillicons.dev)
+
+**Frontend**
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap,jquery&theme=dark)](https://skillicons.dev)
+
+**Backend & Databases**
+[![Backend](https://skillicons.dev/icons?i=nodejs,laravel,dotnet,mysql,mongodb,postgres,firebase&theme=dark)](https://skillicons.dev)
+
+**Cloud & Deployment**
+[![Cloud](https://skillicons.dev/icons?i=aws,azure,vercel,netlify&theme=dark)](https://skillicons.dev)
+
+**Tools & Design**
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,figma,npm,notion&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
 ### 📌 Featured Projects
-<!-- Replace with 2–3 of your best repos -->
-- **[Project Name](https://github.com/your-username/repo)** — one-line description of what it does and why it's interesting.
-- **[Project Name](https://github.com/your-username/repo)** — one-line description.
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnooshaNadeem12345&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnooshaNadeem12345&theme=dark&hide_border=true&layout=compact" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=AnooshaNadeem12345&theme=darkhub&no-frame=true&row=1&column=6" />
-
-</div>
+- **[Health Checker](https://github.com/AnooshaNadeem12345/MentalHealthChecker)** — A CRUD-based Mental Health Checker that empowers users to log, monitor, update, and delete their daily mood assessments. Track emotional patterns over time, gain self-awareness, and take control of your mental well-being through a simple, organized, and user-friendly platform.
+- **[Todo List App](https://github.com/AnooshaNadeem12345/Hackathone-Todo-APP)** — Spec-driven full-stack Todo app with JWT auth and an AI chatbot using MCP, FastAPI, Next.js, and Neon PostgreSQL.
+- **[Product App](https://github.com/AnooshaNadeem12345/Product-App)** — A React + TypeScript product list app with search, category filtering, and add-product form validation — built with AI assistance (Vite, Tailwind CSS v4, Vitest tests).
+- **[Forms Comparison](https://github.com/AnooshaNadeem12345/login-form-drill)** — Login form drill comparing a vague AI prompt vs a spec-driven one (Next.js, TypeScript, Tailwind) — includes both branches, a workflow diff, and project rules learned.
 
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=120&section=footer" />
+
 <sub>Thanks for stopping by — feel free to explore my repos or reach out!</sub>
+
 </div>
