@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=180&section=header&text=Anoosha%20Nadeem&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Anoosha%20Nadeem&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=60" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;Front-End+Developer;AI+%2B+Security+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Front-End+Developer;AI+Engineer;AI-Powered+Frontend+Developer;AI+%2B+Security+Enthusiast" alt="Typing SVG" />
 
 </div>
 
@@ -25,7 +25,7 @@
 ---
 
 ### 🔗 Connect with me
-<div align ="center">
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoosha-nadeem-15675a387/)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Annoyyss)
@@ -38,24 +38,9 @@
 ---
 
 ### 🛠️ Tech Stack
-<div>
+<div align="center">
 
-**Languages**
-[![Languages](https://skillicons.dev/icons?i=cpp,cs,c,js,ts,py&theme=dark)](https://skillicons.dev)
-
-**Frontend**
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap,jquery&theme=dark)](https://skillicons.dev)
-
-**Backend & Databases**
-[![Backend](https://skillicons.dev/icons?i=nodejs,laravel,dotnet,mysql,mongodb,postgres,firebase&theme=dark)](https://skillicons.dev)
-
-**Cloud & Deployment**
-[![Cloud](https://skillicons.dev/icons?i=aws,azure,vercel,netlify&theme=dark)](https://skillicons.dev)
-
-**Tools & Design**
-[![Tools](https://skillicons.dev/icons?i=git,github,docker,figma,npm,notion&theme=dark)](https://skillicons.dev)
-
-[![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)](https://skillicons.dev) [![Claude CLI](https://img.shields.io/badge/Claude_CLI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,js,ts,py,react,nextjs,angular,tailwind,bootstrap,jquery,nodejs,laravel,dotnet,mysql,mongodb,postgres,firebase,aws,azure,vercel,netlify,git,github,docker,figma,npm,notion&theme=dark)](https://skillicons.dev)
 
 </div>
 
