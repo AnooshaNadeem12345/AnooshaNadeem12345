@@ -25,7 +25,7 @@
 ---
 
 ### 🔗 Connect with me
-<div align="center">
+<div align ="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoosha-nadeem-15675a387/)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Annoyyss)
@@ -38,7 +38,7 @@
 ---
 
 ### 🛠️ Tech Stack
-<div align="center">
+<div>
 
 **Languages**
 [![Languages](https://skillicons.dev/icons?i=cpp,cs,c,js,ts,py&theme=dark)](https://skillicons.dev)
