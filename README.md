@@ -55,6 +55,8 @@
 **Tools & Design**
 [![Tools](https://skillicons.dev/icons?i=git,github,docker,figma,npm,notion&theme=dark)](https://skillicons.dev)
 
+[![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)](https://skillicons.dev) [![Claude CLI](https://img.shields.io/badge/Claude_CLI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://skillicons.dev)
+
 </div>
 
 ---
